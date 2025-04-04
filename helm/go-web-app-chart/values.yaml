@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: abhishekf5/go-web-app
   pullPolicy: IfNotPresent
-  tag: "14273676633"
+  tag: "14273708820"
 
 ingress:
   enabled: false
